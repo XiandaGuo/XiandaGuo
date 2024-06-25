@@ -3,7 +3,7 @@
 I'm [Xianda Guo]([https://wzzheng.net/](https://scholar.google.com.hk/citations?hl=zh-CN&user=jPvOqgYAAAAJ&view_op=list_works&sortby=pubdate)), a PhD student at the School of Computer Science, Wuhan University.
 
 ### Previous Efforts
-- Gait Recognition:[GREW](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Gait_Recognition_in_the_Wild_A_Benchmark_ICCV_2021_paper.pdf) -> [GaitStrip](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_GaitStrip_Gait_Recognition_via_Effective_Strip-based_Feature_Representations_and_Multi-Level_ACCV_2022_paper.pdf) -> [DyGait](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DyGait_Exploiting_Dynamic_Representations_for_High-performance_Gait_Recognition_ICCV_2023_paper.pdf) -> [SPOSGait](https://github.com/XiandaGuo/SPOSGait)
+- Gait Recognition:[GREW](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Gait_Recognition_in_the_Wild_A_Benchmark_ICCV_2021_paper.pdf) -> [DyGait](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DyGait_Exploiting_Dynamic_Representations_for_High-performance_Gait_Recognition_ICCV_2023_paper.pdf) -> [SPOSGait](https://github.com/XiandaGuo/SPOSGait)
 - 🚙 Monocular Depth Estimation: [MonoViT](https://arxiv.org/abs/2208.03543) -> [CompletionFormer](https://github.com/XiandaGuo/CompletionFormer) -> [DiffusionDepth](https://github.com/duanyiqun/DiffusionDepth)
 - 🚙 Stereo Matching: [OpenStereo](https://github.com/XiandaGuo/OpenStereo)
 - 🚙 Surround Depth Estimation: [SSDepth](https://github.com/XiandaGuo/SSDepth)
