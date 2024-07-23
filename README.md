@@ -8,6 +8,7 @@ I'm [Xianda Guo](https://scholar.google.com.hk/citations?hl=zh-CN&user=jPvOqgYAA
 - 🚙 Stereo Matching: [OpenStereo](https://github.com/XiandaGuo/OpenStereo)![OpenStereo](https://img.shields.io/github/stars/XiandaGuo/OpenStereo) -> [LightStereo](https://github.com/XiandaGuo/OpenStereo)![OpenStereo](https://img.shields.io/github/stars/XiandaGuo/OpenStereo)
 - 🚙 Surround Depth Estimation: [SSDepth](https://github.com/XiandaGuo/SSDepth)![SSDepth](https://img.shields.io/github/stars/XiandaGuo/SSDepth)
 - 🚙 End-to-End Driving: [MaskFuser](https://arxiv.org/abs/2405.07573) -> [GenAD](https://github.com/wzzheng/GenAD)(*ECCV2024*)![GenAD](https://img.shields.io/github/stars/wzzheng/GenAD)
+- 🚙 LLM for Planing: [InstructDriver](https://github.com/bonbon-rj/InstructDriver)![InstructDriver](https://img.shields.io/github/stars/bonbon-rj/InstructDriver)
 
 ### Current Interests
 Gait Recognition, 🚙 Autonomous Driving 
