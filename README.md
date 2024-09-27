@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Xianda Guo](https://scholar.google.com.hk/citations?hl=zh-CN&user=jPvOqgYAAAAJ&view_op=list_works&sortby=pubdate).
+I'm [Xianda Guo](https://scholar.google.com.hk/citations?hl=zh-CN&user=jPvOqgYAAAAJ&view_op=list_works&sortby=pubdate). PhD at Wuhan University.
 
 ### Previous Efforts
 - Gait Recognition: [GREW](https://github.com/XiandaGuo/GREW-Benchmark)(*ICCV2021*) -> [DyGait](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DyGait_Exploiting_Dynamic_Representations_for_High-performance_Gait_Recognition_ICCV_2023_paper.pdf)(*ICCV2023*) -> [SPOSGait](https://github.com/XiandaGuo/SPOSGait)
