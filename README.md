@@ -12,6 +12,7 @@ Gait Recognition, 🚙 Autonomous Driving
 - Gait Recognition
 - 🚙 Stereo Matching
 - 🚙 End-to-End Driving
-
+- 🚙 MLLM
+  
 ### Collaborations
 If you want to work with me (in person or remotely), please email me at xianda_guo@163.com. I could support GPUs if we are a good fit.
